@@ -2,6 +2,8 @@
 
 A collection of R code and data sets.
 
+# Logistic and Multiple Linear Regression
+
 # Survival analysis.
 
 1. Non-parametric models - Kaplan Meier (KM) Curves
