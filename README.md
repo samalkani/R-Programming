@@ -2,7 +2,7 @@
 
 A collection of R code and data sets.
 
-# Logistic and Multiple Linear Regression
+# Logistic and Linear Regression
 
 # Survival analysis.
 
